@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<contacts>
+<contact name="MAIARA" number="1000" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="RECEPCAO" presence="0" starred="0" directory="0"/>
+<contact name="THIAGO" number="1001" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="DIRETORIA" presence="0" starred="0" directory="0"/>
+<contact name="IDALINO" number="1002" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="DIRETORIA" presence="0" starred="0" directory="0"/>
+<contact name="DANIELA CORREA" number="1003" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="CONTABILIDADE" presence="0" starred="0" directory="0"/>
+<contact name="MARCI" number="1005" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="CONTABILIDADE" presence="0" starred="0" directory="0"/>
+<contact name="TUANE" number="1006" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="CONTABILIDADE" presence="0" starred="0" directory="0"/>
+<contact name="DANYELE NUNES" number="1007" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="CONTABILIDADE" presence="0" starred="0" directory="0"/>
+<contact name="ANA ROCHA" number="1008" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="FINANCEIRO" presence="0" starred="0" directory="0"/>
+<contact name="GISELE" number="1009" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="COMPRAS" presence="0" starred="0" directory="0"/>
+<contact name="ALEXANDRE" number="1010" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="COMPRAS" presence="0" starred="0" directory="0"/>
+<contact name="ROBERTA" number="1011" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="COMPRAS" presence="0" starred="0" directory="0"/>
+<contact name="REUNIOES" number="1012" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="ADMINISTRACAO" presence="0" starred="0" directory="0"/>
+<contact name="GUSTAVO" number="1013" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="CONTABILIDADE" presence="0" starred="0" directory="0"/>
+<contact name="MARCO JOVEM APRENDIZ" number="1014" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="CONTABILIDADE" presence="0" starred="0" directory="0"/>
+<contact name="NELSON" number="1015" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="TI" presence="0" starred="0" directory="0"/>
+<contact name="WILL" number="1016" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="TI" presence="0" starred="0" directory="0"/>
+<contact name="GABRIEL" number="1017" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="TI" presence="0" starred="0" directory="0"/>
+<contact name="ANNA FLAVIA" number="1020" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="MARKETING" presence="0" starred="0" directory="0"/>
+<contact name="MARIA BONETTI" number="1022" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="MARKETING" presence="0" starred="0" directory="0"/>
+<contact name="MAIRA NORBERTO" number="1023" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="MARKETING" presence="0" starred="0" directory="0"/>
+<contact name="DANIELA BRUNATO" number="1030" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="CREDIARIO" presence="0" starred="0" directory="0"/>
+<contact name="CREDIARIO 1" number="1031" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="CREDIARIO" presence="0" starred="0" directory="0"/>
+<contact name="CREDIARIO 2" number="1032" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="CREDIARIO" presence="0" starred="0" directory="0"/>
+<contact name="CAIXA 1" number="1033" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="CREDIARIO" presence="0" starred="0" directory="0"/>
+<contact name="CAIXA 2" number="1034" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="CREDIARIO" presence="0" starred="0" directory="0"/>
+<contact name="DALICE" number="1040" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="LOJA" presence="0" starred="0" directory="0"/>
+<contact name="MARCIEL" number="1041" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="LOJA (ELETRO)" presence="0" starred="0" directory="0"/>
+<contact name="ANA/PAULA" number="1042" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="LOJA (BAZAR)" presence="0" starred="0" directory="0"/>
+<contact name="MARCOS" number="1043" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="LOJA (MOVEIS)" presence="0" starred="0" directory="0"/>
+<contact name="MOVEIS" number="1044" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="LOJA (MOVEIS)" presence="0" starred="0" directory="0"/>
+<contact name="RICARDO" number="1045" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="LOJA (ELETRO)" presence="0" starred="0" directory="0"/>
+<contact name="JOVEM APRENDIZ GABRIEL" number="1051" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="TI" presence="0" starred="0" directory="0"/>
+<contact name="JOVEM APRENDIZ VICTOR" number="1052" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="TI" presence="0" starred="0" directory="0"/>
+<contact name="JOVEM APRENDIZ PIETRO" number="1053" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="TI" presence="0" starred="0" directory="0"/>
+<contact name="DANIELY FRAGNANI" number="3001" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="DEPOSITO" presence="0" starred="0" directory="0"/>
+<contact name="ARIANA" number="4000" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="DIRETORIA" presence="0" starred="0" directory="0"/>
+<contact name="LEONARDO" number="4001" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="DISTRIBUIDORA" presence="0" starred="0" directory="0"/>
+<contact name="EDUARDA" number="4003" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="DISTRIBUIDORA" presence="0" starred="0" directory="0"/>
+<contact name="PAULO FAVARIN" number="4004" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="DISTRIBUIDORA" presence="0" starred="0" directory="0"/>
+<contact name="DANIELE SILVA" number="4005" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="DISTRIBUIDORA" presence="0" starred="0" directory="0"/>
+<contact name="BETH" number="5000" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="CONSTRUTORA" presence="0" starred="0" directory="0"/>
+<contact name="GUILHERME" number="5001" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="DIRETORIA" presence="0" starred="0" directory="0"/>
+<contact name="SANDRA" number="5002" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="DEPARTAMENTO PESSOAL" presence="0" starred="0" directory="0"/>
+<contact name="ROSIELE" number="5003" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="DEPARTAMENTO PESSOAL" presence="0" starred="0" directory="0"/>
+<contact name="JULIA" number="5004" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="DEPARTAMENTO PESSOAL" presence="0" starred="0" directory="0"/>
+<contact name="MARIANA" number="5005" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="RH" presence="0" starred="0" directory="0"/>
+<contact name="RAYSSA" number="5006" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="DEPARTAMENTO PESSOAL" presence="0" starred="0" directory="0"/>
+<contact name="DJANIR" number="5007" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="CONSTRUTORA" presence="0" starred="0" directory="0"/>
+<contact name="PATRICIA" number="6000" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="TESOURARIA" presence="0" starred="0" directory="0"/>
+<contact name="TAMILES" number="6001" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="FINANCEIRO" presence="0" starred="0" directory="0"/>
+<contact name="VINICIUS GLAVAM" number="6002" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="FINANCEIRO" presence="0" starred="0" directory="0"/>
+<contact name="NICHOLAS" number="9001" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="FABRICA" presence="0" starred="0" directory="0"/>
+<contact name="EDUARDO" number="9002" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="FABRICA (ENGENHARIA)" presence="0" starred="0" directory="0"/>
+<contact name="AILON" number="9003" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="FABRICA (ENGENHARIA)" presence="0" starred="0" directory="0"/>
+<contact name="GUARITA" number="9004" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="FABRICA" presence="0" starred="0" directory="0"/>
+<contact name="FATURAMENTO" number="9005" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="FABRICA (FATURAMENTO)" presence="0" starred="0" directory="0"/>
+<contact name="RAMON" number="9006" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="FABRICA (QUALIDADE)" presence="0" starred="0" directory="0"/>
+<contact name="MARCOS CAMBRUZZI" number="9007" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="FABRICA (SEGURANCA DO TRABALHO)" presence="0" starred="0" directory="0"/>
+<contact name="AMANDA MUNIZ" number="9008" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="FABRICA (PCP)" presence="0" starred="0" directory="0"/>
+<contact name="VINICIUS PAVANATI" number="9009" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="FABRICA (FERRAMENTARIA)" presence="0" starred="0" directory="0"/>
+<contact name="MANUTENCAO" number="9010" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="FABRICA (MANUTENCAO)" presence="0" starred="0" directory="0"/>
+<contact name="EMBALAGEM" number="9011" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="FABRICA (PRODUCAO)" presence="0" starred="0" directory="0"/>
+<contact name="EXPEDICAO" number="9012" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="FABRICA (PRODUCAO)" presence="0" starred="0" directory="0"/>
+<contact name="PRENSA" number="9013" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="FABRICA (PRODUCAO)" presence="0" starred="0" directory="0"/>
+<contact name="CHRISTIANE MARTINS" number="9020" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="COMERCIAL" presence="0" starred="0" directory="0"/>
+<contact name="PAULO HENRIQUE" number="9021" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="COMERCIAL" presence="0" starred="0" directory="0"/>
+<contact name="AMANDA LIMA" number="9023" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="COMERCIAL" presence="0" starred="0" directory="0"/>
+<contact name="TATIANA" number="9024" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="COMERCIAL" presence="0" starred="0" directory="0"/>
+<contact name="DIOGO" number="9025" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="COMERCIAL" presence="0" starred="0" directory="0"/>
+<contact name="VITORIA" number="9026" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="COMERCIAL" presence="0" starred="0" directory="0"/>
+<contact name="ALINE" number="9027" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="COMERCIAL" presence="0" starred="0" directory="0"/>
+<contact name="CRISTIANE HEINECK" number="9028" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="LOJA BN" presence="0" starred="0" directory="0"/>
+</contacts>
